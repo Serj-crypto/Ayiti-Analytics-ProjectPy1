@@ -1,0 +1,8 @@
+Notes:
+	Verifier l'unicite des observations: pd.get_dummies(data= , , columns = , prefix = , prefix_sep="")
+
+	to see null values: df.isna().sum()
+	
+	test de proportion en vue de voir la distribution des femmes (25%)
+	
+	
